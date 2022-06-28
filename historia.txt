@@ -5,4 +5,3 @@ viviendo en todo el mundo
 
 hoy hablaremos de su historia.
 esto de git me esta gustando ya quiero empezar con el curso de javascript :3
-
